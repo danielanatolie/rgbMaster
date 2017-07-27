@@ -1,1 +1,1 @@
-test
+Try to guess what the rgb color represents by clicking on a color tile!
